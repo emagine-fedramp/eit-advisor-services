@@ -19,10 +19,10 @@
       "serviceName": "Advisory and Package Development",
       "serviceDescription": "Collaborate with your subject matter experts (SMEs) to refine security documentation, e.g., Security Decision Record (SDR), and governance practices all the way up to and including the Executive level. Coach your team for eventual assessment interview questions. Attend sales meetings with customers as evidence that you’re making serious, significant, and immediate steps toward your Certification. Conduct a pre-assessment readiness review."
     },
-	{
+    {
 	  "serviceName": "Cyber Engineering",
 	  "serviceDescription": "Migrate current service offering to compliant infrastructure of your choice (AWS, Azure, GCP). Consult with or design, integrate, and optimize your Cloud offering to be as secure, effective, expansive, and reliable as possible."
-	},
+    },
     {
       "serviceName": "Assessment Support",
       "serviceDescription": "EIT will advocate on your behalf and provide resources to bring your service offering to the FedRAMP marketplace or achieve your desired certification, help maintain and update security documentation as needed, act as an intermediary with (FedRAMP) assessor(s) to support evidence collection, and clarify how your security controls and practices, as implemented, comply with FedRAMP or your desired framework."
