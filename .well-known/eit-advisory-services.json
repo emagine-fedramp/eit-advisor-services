@@ -20,8 +20,8 @@
       "serviceDescription": "Collaborate with your subject matter experts (SMEs) to refine security documentation, e.g., Security Decision Record (SDR), and governance practices all the way up to and including the Executive level. Coach your team for eventual assessment interview questions. Attend sales meetings with customers as evidence that you’re making serious, significant, and immediate steps toward your Certification. Conduct a pre-assessment readiness review."
     },
     {
-	  "serviceName": "Cyber Engineering",
-	  "serviceDescription": "Migrate current service offering to compliant infrastructure of your choice (AWS, Azure, GCP). Consult with or design, integrate, and optimize your Cloud offering to be as secure, effective, expansive, and reliable as possible."
+      "serviceName": "Cyber Engineering",
+      "serviceDescription": "Migrate current service offering to compliant infrastructure of your choice (AWS, Azure, GCP). Consult with or design, integrate, and optimize your Cloud offering to be as secure, effective, expansive, and reliable as possible."
     },
     {
       "serviceName": "Assessment Support",
