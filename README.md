@@ -1,4 +1,4 @@
-## Emagine IT -- FedRAMP & Compliance Advisory Services
+## Emagine IT - FedRAMP & Compliance Advisory Services
 
 Emagine IT (EIT) provides compliance advisory services that help Cloud Service Providers, system owners, and other organizations plan, scope, and prepare for FedRAMP, as well as related federal and industry security certifications and authorizations. EIT's advisory team supports clients from strategic roadmap planning, initial gap assessment, and readiness planning through full implementation guidance, working across FedRAMP Rev5 and 20x (Classes A-D), CMMC, DoD RMF, HIPAA, FISMA, SOC 2, and maritime (IMO / U.S. Coast Guard NVIC) cybersecurity compliance frameworks.
 
@@ -6,11 +6,11 @@ EIT is accredited as both a [FedRAMP Recognized Independent Assessment Service (
 
 ### Services Offered
 
-- **Discovery and Gap Analysis** -- Perform detailed gap analysis of the system offering against security requirements to determine technical readiness. Review client's existing security documentation for their service offering to determine if any content could be reused when developing a FedRAMP security compliance package.
-- **Advisory and Package Development** -- Collaborate with your subject matter experts (SMEs) to refine security documentation, e.g., Security Decision Record (SDR), and governance practices all the way up to and including the Executive level. Coach your team for eventual assessment interview questions. Attend sales meetings with customers as evidence that you're making serious, significant, and immediate steps toward your Certification. Conduct a pre-assessment readiness review.
-- **Cyber Engineering** -- Migrate current service offering to compliant infrastructure of your choice (AWS, Azure, GCP). Consult with or design, integrate, and optimize your Cloud offering to be as secure, effective, expansive, and reliable as possible.
-- **Assessment Support** -- EIT will advocate on your behalf and provide resources to bring your service offering to the FedRAMP marketplace or achieve your desired certification, help maintain and update security documentation as needed, act as an intermediary with (FedRAMP) assessor(s) to support evidence collection, and clarify how your security controls and practices, as implemented, comply with FedRAMP or your desired framework.
-- **Compliance as a Service** -- Perform ongoing (monthly, quarterly, and annually) risk monitoring activities required to monitor and maintain the system after achieving a certification. Can be expanded across multiple security frameworks.
+- **Discovery and Gap Analysis**: Perform detailed gap analysis of the service offering against security requirements to determine technical readiness. Review client's existing security documentation for their service offering to determine if any content could be reused when developing a FedRAMP security compliance package.
+- **Advisory and Package Development**: Collaborate with your subject matter experts (SMEs) to refine security documentation, e.g., Security Decision Record (SDR), and governance practices all the way up to and including the Executive level. Coach your team for eventual assessment interview questions. Attend sales meetings with customers as evidence that you're making serious, significant, and immediate steps toward your Certification. Conduct a pre-assessment readiness review.
+- **Cyber Engineering**: Migrate current service offering to compliant infrastructure of your choice (AWS, Azure, GCP). Consult with or design, integrate, and optimize your Cloud offering to be as secure, effective, expansive, and reliable as possible.
+- **Assessment Support**: EIT will advocate on your behalf and provide resources to bring your service offering to the FedRAMP marketplace or achieve your desired certification, help maintain and update security documentation as needed, act as an intermediary with (FedRAMP) assessor(s) to support evidence collection, and clarify how your security controls and practices, as implemented, comply with FedRAMP or your desired framework.
+- **Compliance as a Service**: Perform ongoing (monthly, quarterly, and annually) risk monitoring activities required to monitor and maintain the system after achieving a certification. Can be expanded across multiple security frameworks.
 
 ### Contact
 
@@ -21,19 +21,19 @@ EIT is accredited as both a [FedRAMP Recognized Independent Assessment Service (
 
 ### What Clients Say
 
-> "EIT helped us fast-track our path to FISMA compliance and save months of additional work we would have had to do ourselves. EIT's expertise, experience and knowledge of FISMA were critical in getting this done. Working with EIT's advisory team, we had a FISMA-compliant platform and all FISMA required documentation in less than half the time usually required."
+> "EIT helped us fast-track our path to FedRAMP compliance and save months of additional work we would have had to do ourselves. EIT's expertise, experience and knowledge of FedRAMP were critical in getting this done. Working with EIT's advisory team, we had a FedRAMP-compliant platform and all FedRAMP required documentation in less than half the time usually required."
 > — Michael Nichols, Executive VP of Enterprise Products and Solutions, R&K Solutions
 
-> "It was a great experience for us and we couldn't have asked for a better and knowledgeable partner to assist us with our first FISMA Authorization, you have a great team. We learned a lot about the FISMA process and requirements from your team during the assessment. So on behalf of the entire team, it was a pleasure working with your team as well. I am looking forward to working together on our annual assessments and possibly other future requirements."
+> "It was a great experience for us and we couldn't have asked for a better and knowledgeable partner to assist us with our first FedRAMP Authorization, you have a great team. We learned a lot about the FedRAMP process and requirements from your team during the assessment. So on behalf of the entire team, it was a pleasure working with your team as well. I am looking forward to working together on our annual assessments and possibly other future requirements."
 > — Vice President, Network and Security Infrastructure and Architecture, Mathematica
 
 > "EIT took over our 3PAO assessment and we didn't realize the professionalism and high-quality team we were missing until working with them. Looking forward to continuing to work with their team on current and future projects to come."
 > — Ken Collo, Senior Director, Federal Hosting, Tyler Technologies
 
-> "When we were choosing between Third-Party Assessment Organizations (3PAO) for advisory services, the cost difference with Emagine IT from all the other 3PAO's was a night and day difference. This obviously alarmed me, but we wanted to ensure we gave all vendors a fair chance. Needless to say, we were and are continuously blown away by EIT's performance. EIT consistently impresses, from our initial vendor selection interviews all the way to today, where we are currently engaged EIT for ConMon support. We are very glad to have EIT as our partners through our FISMA journey."
+> "When we were choosing between Third-Party Assessment Organizations (3PAO) for advisory services, the cost difference with Emagine IT from all the other 3PAO's was a night and day difference. This obviously alarmed me, but we wanted to ensure we gave all vendors a fair chance. Needless to say, we were and are continuously blown away by EIT's performance. EIT consistently impresses, from our initial vendor selection interviews all the way to today, where we are currently engaged EIT for ConMon support. We are very glad to have EIT as our partners through our FedRAMP journey."
 > — Marcelo Sant'Anna, CISO, MDRC
 
-> "Veritone had the best advisory service throughout the FISMA Certification process. Thanks to all the team members at EIT. Looking forward to continued relationship with ConMon and future re-certification support from EIT and team."
+> "Veritone had the best advisory service throughout the FedRAMP Certification process. Thanks to all the team members at EIT. Looking forward to continued relationship with ConMon and future re-certification support from EIT and team."
 > — Gary Everekyan, Chief Information Security Officer, Veritone
 
 ---
